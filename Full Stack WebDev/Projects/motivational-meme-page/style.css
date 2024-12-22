@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+    font-family: "Caveat", serif;
+}
+
+.meme{
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.cat{
+    border: 5px solid white;
+    width: 100%;
+}
