@@ -1,1 +1,6 @@
+Here we learnt the basic fundamentals of web designing or say overall designing, UI/Ux, typography, fonts and many more...
+here is the end project to test out the knowledge uploaded in pdf format
+It was all made using canva, also the site is published usiing the canva's inbuilt feature to publish a design as a website...
 
+take a look here is the link for the website:-
+https://ahomestay.my.canva.site/
