@@ -2,19 +2,62 @@
     background-color: #E7DFD8;
 }
 
+.top-container{
+    display: flex;
+    position: relative;
+    padding-top: 250px;
+}
+
+div{
+    display: block;
+    unicode-bidi: isolate;
+}
+
 .title-text{
-    float: left;
-    text-align: center;
-    /* justify-content: center;
-    align-items: center; */
-    margin-left: 200px;
-    margin-top: 110px;
+    /* display: block;
+    unicode-bidi: isolate; */
+
+    position: relative;
+    /* top: 20px; */
+    left: 40vh;
+    bottom: 100px;
 
 }
 
 .git-profile{
-    float: right;
+    /* float: right; */
     width: 200px;
-    margin-top: 80px;
-    margin-right: 220px;
+    position: absolute;
+    top: 100px;
+    right: 30vh;
+}
+
+.middle-container{
+    display: inline;
+    margin: 100px 0;
+}
+
+.profile img{
+    /* display: flex; */
+    /* overflow: clip;
+    overflow-clip-margin: content-box; */
+    /* margin-left: 250px; */
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 50%;
+    display: block;
+}
+
+.hello{
+    /* display: flex; */
+    /* position: relative; */
+    width: 30%;
+    margin-left: 52%;
+}
+
+.intro{
+    /* display: inline; */
+    width: 100%;
+    margin-left: 90px;
+    text-align: center;
 }
