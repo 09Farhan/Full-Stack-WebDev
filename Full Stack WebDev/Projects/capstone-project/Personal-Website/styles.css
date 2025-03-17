@@ -8,3 +8,13 @@
 span{
     text-decoration: underline;
 }
+
+.chess{
+    margin-top: 100px;
+}
+
+.skills{
+    text-align: center;
+    padding-bottom: 100px;
+    text-decoration: underline;
+}
