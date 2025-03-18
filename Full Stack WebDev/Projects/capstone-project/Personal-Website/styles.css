@@ -31,3 +31,13 @@ span{
     justify-content: center;
     align-items: center;
 }
+
+.resume{
+    text-decoration: none;
+    /* text-transform: none; */
+    background-color: transparent;
+    color: white;
+    position: relative;
+
+    margin-left: 45%;
+}
