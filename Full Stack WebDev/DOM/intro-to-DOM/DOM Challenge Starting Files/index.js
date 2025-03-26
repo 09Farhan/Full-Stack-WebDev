@@ -2,3 +2,5 @@ var third = document.firstElementChild.lastElementChild.querySelector("ul").last
 third.innerHTML = "Farhan";
 
 document.querySelector(".list a").style.color = "Red";
+
+document.querySelector(".btn").style.backgroundColor = "yellow";
