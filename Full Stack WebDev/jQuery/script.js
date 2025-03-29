@@ -12,9 +12,9 @@ console.log($("img").attr("src"));
 
 $("a").attr("href", "https://www.yahoo.com");
 
-$("h1").click(function(){
-    $("h1").css("color", "purple");
-}); 
+// $("h1").click(function(){
+//     $("h1").css("color", "purple");
+// }); 
 
 $("button").click(function(){
     $("h1").text("Hello!"); 
@@ -32,3 +32,17 @@ $("h1").on("mouseover", function(){
     $("h1").css("color", "blue");
 }
 )
+
+//animation
+
+// $("button").on("click", function(){
+//     $("h1").fadeToggle();
+// });
+
+// $("button").on("click", function(){
+//     $("h1").animate({ opacity: 0.5 });
+// });
+
+$("button").on("click", function(){
+    $("h1").slideUp().slideDown().animate({ opacity: 0.5 });
+});
