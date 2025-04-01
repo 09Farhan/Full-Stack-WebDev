@@ -1,3 +1,6 @@
 the commits are not being made for the last days because all the things are done in the chrome developer tools...
 I've started the Js bit in the course so...all of it is continued...in chrome...the next commit will be done when 
 something is given to write on Vs Code
+
+
+01.04.25 --> learnt about unix command line !
